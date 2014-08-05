@@ -22,9 +22,13 @@ body {
 }
 .avatar-wrapper {
   position: relative;
-  display: inline-block;
-  vertical-align: middle;
-  margin-right: 8px;
+  display: block;
+  margin-right: 0;
+  width: 95px;
+  height: 95px;
+  background: red;
+  margin: 25px auto;
+  border: 3px solid #fff;
 }
 .avatar {
   display: block;
@@ -32,11 +36,6 @@ body {
   height: 108px;
   background-size: cover;
   border-radius: 50%;
-}
-.outline {
-  position: absolute;
-  top: -11px;
-  left: -11px;
 }
 .info {
   display: block;
@@ -56,7 +55,10 @@ body {
   font-size: 22px;
 }
 .spacer {
-  display: inline-block;
-  vertical-align: middle;
-  height: 120px;
+  color: #fff;
+  font-size: 2em;
+  line-height: 0;
+  position: relative;
+  top: -3px;
+  padding: 0 10px;
 }
