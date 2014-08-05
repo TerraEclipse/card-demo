@@ -2,7 +2,7 @@ body {
   width: 800px;
   height: 400px;
   background: url(./images/background.jpg) top left no-repeat;
-  font-family: 'Azo Sans', sans-serif;
+  font-family: 'azo-sans-web', sans-serif;
 }
 .wrapper {
   position: relative;
@@ -37,17 +37,18 @@ body {
   position: absolute;
   bottom: 63px;
   left: 0;
+  font-weight: 100;
 }
-.name {
+.info .name {
   color: #fff;
   font-size: 22px;
   margin-bottom: 4px;
 }
-.location {
+.info .location {
   color: #ec7063;
   font-size: 22px;
 }
-.spacer {
+.info .spacer {
   color: #fff;
   font-size: 2em;
   line-height: 0;
