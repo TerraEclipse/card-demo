@@ -1,6 +1,6 @@
 {
-  "title": "Common Core - Larger Signature",
-  "description": "Make Common Core History",
+  "title": "Signblock Demo",
+  "description": "Awesome card for Signblock Demo",
   "sizes": {
     "twitter": {
       "width": 800,
@@ -14,9 +14,9 @@
   "variables": {
     "first": "Your",
     "last": "Name",
-    "city": "Washington",
-    "state": "DC",
-    "state_full": "District of Columbia",
+    "city": "Lincoln",
+    "state": "NE",
+    "state_full": "Nebraska",
     "avatar": "./images/avatar.png"
   }
 }
