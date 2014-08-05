@@ -30,6 +30,13 @@ body {
   height: 100%;
   background-size: cover;
 }
+.message {
+  color: #fff;
+  font-size: 25px;
+  font-weight: 100;
+  text-transform: uppercase;
+  text-align: center;
+}
 .info {
   display: block;
   width: 100%;
