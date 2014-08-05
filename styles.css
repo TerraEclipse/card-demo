@@ -14,12 +14,6 @@ body {
   position: relative;
   display: inline-block;
 }
-.arrow {
-  position: absolute;
-  left: -50px;
-  top: 50%;
-  margin-top: -20px;
-}
 .avatar-wrapper {
   position: relative;
   display: block;
