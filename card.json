@@ -8,6 +8,7 @@
       "default": true
     }
   },
+  "typekit": true,
   "styles": [
     "./styles.css"
   ],
