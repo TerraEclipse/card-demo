@@ -26,16 +26,15 @@ body {
   margin-right: 0;
   width: 95px;
   height: 95px;
-  background: red;
+  background: #686868;
   margin: 25px auto;
   border: 3px solid #fff;
 }
 .avatar {
   display: block;
-  width: 108px;
-  height: 108px;
+  width: 100%;
+  height: 100%;
   background-size: cover;
-  border-radius: 50%;
 }
 .info {
   display: block;
