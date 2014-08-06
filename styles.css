@@ -34,9 +34,9 @@ body {
   position: absolute;
   top: 136px;
   width: 100%;
-  color: #d5d5d5;
+  color: #EEEEEE;
   font-size: 25px;
-  font-weight: 100;
+  font-weight: 200;
   text-transform: uppercase;
   text-align: center;
   word-spacing: 3px;
@@ -52,7 +52,7 @@ body {
   position: absolute;
   bottom: 63px;
   left: 0;
-  font-weight: 100;
+  font-weight: 200;
 }
 .info .name {
   color: #fff;
