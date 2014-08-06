@@ -31,6 +31,9 @@ body {
   background-size: cover;
 }
 .message {
+  position: absolute;
+  top: 136px;
+  width: 100%;
   color: #d5d5d5;
   font-size: 25px;
   font-weight: 100;
