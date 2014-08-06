@@ -36,7 +36,7 @@ body {
   width: 100%;
   color: #EEEEEE;
   font-size: 25px;
-  font-weight: 400;
+  font-weight: 300;
   text-transform: uppercase;
   text-align: center;
   word-spacing: 3px;
@@ -52,7 +52,7 @@ body {
   position: absolute;
   bottom: 63px;
   left: 0;
-  font-weight: 400;
+  font-weight: 300;
 }
 .info .name {
   color: #fff;
