@@ -1,5 +1,5 @@
 {
-  "title": "Signblock Demo",
+  "title": "Signblock Variants Demo",
   "description": "Awesome card for Signblock Demo",
   "sizes": {
     "twitter": {
@@ -18,6 +18,20 @@
     "city": "Lincoln",
     "state": "NE",
     "state_full": "Nebraska",
-    "avatar": "./images/avatar.png"
+    "avatar": "./images/avatar.png",
+    "background": "red"
+  },
+
+  "variants": {
+    "bar": {
+      "variables": {
+        "background": "blue"
+      }
+    },
+    "foo": {
+      "variables": {
+        "background": "green"
+      }
+    }
   }
 }
