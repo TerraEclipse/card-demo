@@ -10,7 +10,7 @@
   },
   "typekit": true,
   "styles": [
-    "./styles.css"
+    "./styles.less"
   ],
   "variables": {
     "first": "Your",
@@ -19,18 +19,18 @@
     "state": "NE",
     "state_full": "Nebraska",
     "avatar": "./images/avatar.png",
-    "background": "red"
+    "@background": "red"
   },
 
   "variants": {
     "bar": {
       "variables": {
-        "background": "blue"
+        "@background": "blue"
       }
     },
     "foo": {
       "variables": {
-        "background": "green"
+        "@background": "green"
       }
     }
   }
