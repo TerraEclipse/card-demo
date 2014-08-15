@@ -1,6 +1,6 @@
 {
-  "title": "Signblock Variants Demo",
-  "description": "Awesome card for Signblock Demo",
+  "title": "Signblox choose Demo",
+  "description": "Signblox demo using different variants",
   "sizes": {
     "twitter": {
       "width": 800,
@@ -18,20 +18,17 @@
     "city": "Lincoln",
     "state": "NE",
     "state_full": "Nebraska",
-    "avatar": "./images/avatar.png",
-    "@background": "red"
+    "avatar": "./images/avatar.png"
   },
 
   "variants": {
-    "bar": {
-      "variables": {
-        "@background": "blue"
-      }
+    "see-the-world": {
+      "default": "true"
     },
-    "foo": {
-      "variables": {
-        "@background": "green"
-      }
+    "great-grandchildren": {
+    },
+    "laser-cats": {
+
     }
   }
 }
