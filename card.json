@@ -15,9 +15,9 @@
   "variables": {
     "first": "Your",
     "last": "Name",
-    "city": "Lincoln",
-    "state": "NE",
-    "state_full": "Nebraska",
+    "city": "Your City",
+    "state": "State",
+    "state_full": "State",
     "avatar": "./images/avatar.png"
   },
 
