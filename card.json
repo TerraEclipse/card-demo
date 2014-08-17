@@ -22,13 +22,11 @@
   },
 
   "variants": {
-    "see-the-world": {
+    "world": {
       "default": "true"
     },
-    "great-grandchildren": {
-    },
-    "laser-cats": {
-
-    }
+    "life": {},
+    "future": {},
+    "cats": {}
   }
 }
