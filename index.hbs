@@ -16,7 +16,11 @@
     </div>
     <div class="info">
       <span class="name">{{{first}}} {{{last}}}</span>
-      <span class="spacer">.</span>
+      {{#or first last city state}}
+        {{#or city state}}
+          <span class="spacer">.</span>
+        {{/or}}
+      {{/or}}
       <span class="location">
         {{{city}}}
         {{#if state}}{{#if city}}, {{/if}}{{/if}}
